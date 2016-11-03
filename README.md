@@ -1,1 +1,2 @@
-# StarCatcher
+# hello-world
+Hello world new project template.
